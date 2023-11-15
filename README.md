@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **React**
 
-- 📫 How to reach me **parmjeetmishra2@gmail.com**
+- 📫 How to reach me **iamparmjeetmishra@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/parmjeetmishra2/parmjeetmishra1/build](https://rxresu.me/parmjeetmishra2/parmjeetmishra1/build)
+- 📄 Know about my experiences [https://rxresu.me/iamparmjeetmishra/parmjeetmishra](https://rxresu.me/iamparmjeetmishra/parmjeetmishra)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
